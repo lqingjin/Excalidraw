@@ -1,9 +1,9 @@
 /* http://www.eaglefonts.com/fg-virgil-ttf-131249.htm */
-/* @font-face {
+@font-face {
   font-family: "Virgil";
   src: url("Virgil.woff2");
   font-display: swap;
-} */
+}
 
 /* https://github.com/microsoft/cascadia-code */
 @font-face {
@@ -11,8 +11,9 @@
   src: url("Cascadia.woff2");
   font-display: swap;
 }
+/* 自定义汉字字体  */
 @font-face {
-  font-family: "chinese";
+  font-family: "Chinese";
   src: url("chinese.woff2");
   font-display: swap;
 }
